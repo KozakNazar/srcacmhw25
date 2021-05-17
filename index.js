@@ -1,6 +1,6 @@
 /*******************************************************************************************
 * N.Kozak // Lviv'2020 // ACM // reactive(by RxJS) validator example by JavaScript(NodeJS) *
-*    file: acmhw25.js (renamed to index.js)                                           *
+*    file: acmhw27_1.js (renamed to index.js)                                              *
 ********************************************************************************************/
 //const { of } = require('rxjs');
 const { from_ } = require('rxjs');
